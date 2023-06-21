@@ -30,27 +30,25 @@ msgstr "\"%s\" de l'estujader sistèma qu'ei utilizat"
 msgid "\"-p foo\" will set \"foo\" param value to true"
 msgstr "\"-p foo\" que definirà la valor Verai entau paramètre \"foo\" "
 
-
-
 #: src/Console/Plugin/InstallCommand.php:72
 msgid "\"-p foo=bar\" will set \"foo\" param value to \"bar\""
-msgstr "\"-p foo=bar\" définira  la valeur \"bar\" pour le paramètre \"foo\""
+msgstr "\"-p foo=bar\" que definirà la valor \"bar\" entau paramètre \"foo\""
 
 #: front/migrationcleaner.php:57
 msgid "\"Migration cleaner\" tool"
-msgstr "Outil de nettoyage de migration"
+msgstr "Otilh de netejatge de migracion"
 
 #: src/Agent.php:492
 msgid "\"deviceid\" is mandatory!"
-msgstr "\"Device ID\" est obligatoire !"
+msgstr "\"Device ID\" qu'ei obligatòri !"
 
 #: src/System/Requirement/DbConfiguration.php:81
 msgid "\"innodb_large_prefix\" must be enabled."
-msgstr "La variable \"innodb_large_prefix\" doit-être activée."
+msgstr "La variable \"innodb_large_prefix\" deb esser activada."
 
 #: src/System/Requirement/SessionsConfiguration.php:64
 msgid "\"session.auto_start\" and \"session.use_trans_sid\" must be set to off."
-msgstr "\"session.auto_start\" et \"session.use_trans_sid\" doivent être désactivés."
+msgstr "\"session.auto_start\" e \"session.use_trans_sid\" deben esser desactivats."
 
 #: src/System/Requirement/SessionsConfiguration.php:66
 msgid "\"session.auto_start\" must be set to off."

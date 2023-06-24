@@ -44,19 +44,19 @@ msgstr "\"Device ID\" qu'ei obligatòri !"
 
 #: src/System/Requirement/DbConfiguration.php:81
 msgid "\"innodb_large_prefix\" must be enabled."
-msgstr "La variable \"innodb_large_prefix\" deb esser activada."
+msgstr "La variable \"innodb_large_prefix\" deu estar activada."
 
 #: src/System/Requirement/SessionsConfiguration.php:64
 msgid "\"session.auto_start\" and \"session.use_trans_sid\" must be set to off."
-msgstr "\"session.auto_start\" e \"session.use_trans_sid\" deben esser desactivats."
+msgstr "\"session.auto_start\" e \"session.use_trans_sid\" deben estar desactivats."
 
 #: src/System/Requirement/SessionsConfiguration.php:66
 msgid "\"session.auto_start\" must be set to off."
-msgstr "\"session.auto_start\" doit être désactivé."
+msgstr "\"session.auto_start\" deu estar desactivat."
 
 #: src/System/Requirement/SessionsConfiguration.php:68
 msgid "\"session.use_trans_sid\" must be set to off."
-msgstr "\"session.use_trans_sid\" doit être désactivé."
+msgstr "\"session.use_trans_sid\" deu estar desactivat."
 
 #. TRANS: %f is the speed
 #: src/NetworkPortEthernet.php:294 src/NetworkPortFiberchannel.php:272
@@ -67,7 +67,7 @@ msgstr "%.1f Gbit/s"
 #: js/modules/Debug/Debug.js:551 js/modules/Debug/Debug.js:554
 msgctxt "debug"
 msgid "%1 Queries took %2ms"
-msgstr ""
+msgstr "%1 Requestas prenè %2ms"
 
 #: src/DatabaseInstance.php:595
 #, php-format

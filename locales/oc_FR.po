@@ -73,22 +73,22 @@ msgstr "%1 Requestas prenè %2ms"
 #, php-format
 msgid "%1$d database"
 msgid_plural "%1$d databases"
-msgstr[0] "%1$d base de données"
-msgstr[1] "%1$d bases de données"
-msgstr[2] "%1$d bases de données"
+msgstr[0] "%1$d basa de dadas"
+msgstr[1] "%1$d basas de dadas"
+msgstr[2] "%1$d basas de dadas"
 
 #: src/Dropdown.php:1970
 #, php-format
 msgid "%1$d day %2$dh%3$s"
 msgid_plural "%1$d days %2$dh%3$s"
-msgstr[0] "%1$d jour %2$dh%3$s"
-msgstr[1] "%1$d jours %2$dh%3$s"
-msgstr[2] "%1$d jours %2$dh%3$s"
+msgstr[0] "%1$d jorn %2$dh%3$s"
+msgstr[1] "%1$d jorns %2$dh%3$s"
+msgstr[2] "%1$d jorns %2$dh%3$s"
 
 #: src/Html.php:4369
 #, php-format
 msgid "%1$d on %2$d"
-msgstr "%1$d sur %2$d"
+msgstr "%1$d sus %2$d"
 
 #. TRANS: %1$d the number of hours, %2$s the number of minutes : display 3h15
 #: src/Dropdown.php:1984
@@ -291,7 +291,7 @@ msgstr "%1$s - %2$s"
 #, php-format
 msgid "%1$s - Error during the database query: %2$s - Error is %3$s"
 msgstr ""
-"%1$s - Erreur durant l'éxecution de la requête : %2$s - L'erreur est %3$s"
+"%1$s - Error pendent l'éxecution de la requèsta : %2$s - L'error que %ei 3$s "
 
 #. TRANS: %1$s is the Itemtype name and $2$d the ID of the item
 #: src/CommonDBTM.php:1476 src/CommonDBTM.php:1918 src/Item_Ticket.php:1206
@@ -306,20 +306,20 @@ msgstr "%1$s - ID %2$d"
 #: ajax/dropdownConnectNetworkPort.php:140
 #, php-format
 msgid "%1$s - Network outlet %2$s"
-msgstr "%1$s - Prise réseau %2$s"
+msgstr "%1$s - Presa hialat %2$s"
 
 #. TRANS: %1$s is device name, %2$s is port name
 #: ajax/dropdownConnectNetworkPort.php:133
 #, php-format
 msgid "%1$s - The port %2$s"
-msgstr "%1$s - Le port %2$s"
+msgstr "%1$s - Lo pòrt %2$s"
 
 #: src/RuleDictionnaryPrinterCollection.php:121
 #: src/RuleDictionnarySoftwareCollection.php:163
 #, php-format
 msgid "%1$s - replay rules on existing database: %2$s/%3$s (%4$s Mio)"
 msgstr ""
-" %1$s - Règles rejouées sur base de données existante : %2$s/%3$s (%4$s Mio)"
+" %1$s - Règlas tornadas jogar sus basa de dadas existenta : %2$s/%3$s (%4$s Mio)"
 
 #: src/IPNetwork.php:244 src/IPNetwork.php:250 src/IPNetwork.php:1159
 #: src/RuleTicket.php:83 src/RuleAsset.php:77 src/Search.php:2088
@@ -396,28 +396,28 @@ msgstr "%1$s BIOS"
 #: front/report.infocom.conso.php:254 front/report.infocom.php:278
 #, php-format
 msgid "%1$s account net value"
-msgstr "%1$s valeur nette comptable"
+msgstr "%1$s valor neta comptabla"
 
 #. TRANS: %1$s is the user login, %2$s the field type
 #: front/itiltemplatefield.form.php:83
 #, php-format
 msgid "%1$s adds %2$s field"
-msgstr "%1$s ajoute le champ %2$s"
+msgstr "%1$s que ajusta lo camp %2$s "
 
 #: front/item_device.common.form.php:71
 #, php-format
 msgid "%1$s adds an item"
-msgstr "%1$s ajoute un élément"
+msgstr "%1$s qu'ajusta un element"
 
 #: front/lockedfield.form.php:57
 #, php-format
 msgid "%1$s adds global lock on %2$s"
-msgstr "%1$sajoute un verrouillage global sur %2$s"
+msgstr "%1$s qu'ajusta ua varrolhada globau sus %2$s"
 
 #: front/socket.form.php:111
 #, php-format
 msgid "%1$s adds several sockets"
-msgstr "%1$s a ajouté plusieurs connecteurs"
+msgstr "%1$s qu'a ajustat mantun connector"
 
 #. TRANS: %1$s is the user login, %2$s is the name of the item
 #. TRANS: %1$s is the user login, %2$s is the name of the item to add
@@ -450,18 +450,18 @@ msgstr "%1$s a ajouté plusieurs connecteurs"
 #: front/budget.form.php:60 src/RuleCollection.php:1534 src/Ticket.php:2047
 #, php-format
 msgid "%1$s adds the item %2$s"
-msgstr "%1$s ajoute l'élément %2$s"
+msgstr "%1$s qu'ajusta l'element %2$s "
 
 #: front/reservationitem.form.php:57
 #, php-format
 msgid "%1$s adds the item %2$s (%3$d)"
-msgstr "%1$s ajoute l'élément %2$s (%3$d)"
+msgstr "%1$s qu'ajusta l'element %2$s (%3$d)"
 
 #. TRANS: %s is the user login, %2$s is the license id
 #: front/softwarelicense.form.php:62
 #, php-format
 msgid "%1$s adds the license %2$s"
-msgstr "%1$s ajoute la licence %2$s"
+msgstr "%1$s qu'ajusta la licéncia %2$s "
 
 #: front/reservation.form.php:148
 #, php-format

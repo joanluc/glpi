@@ -402,7 +402,7 @@ msgstr "%1$s valor neta comptabla"
 #: front/itiltemplatefield.form.php:83
 #, php-format
 msgid "%1$s adds %2$s field"
-msgstr "%1$s que ajusta lo camp %2$s "
+msgstr "%1$s qu'ajusta lo camp %2$s "
 
 #: front/item_device.common.form.php:71
 #, php-format
@@ -466,41 +466,41 @@ msgstr "%1$s qu'ajusta la licéncia %2$s "
 #: front/reservation.form.php:148
 #, php-format
 msgid "%1$s adds the reservation %2$s for item %3$s"
-msgstr "%1$s ajoute la réservation %2$s pour l'objet %3$s"
+msgstr "%1$s qu'ajusta la reservacion %2$s entà l'objècte %3$s"
 
 #. TRANS: %s is the user login, %2$s is the version id
 #: front/softwareversion.form.php:61
 #, php-format
 msgid "%1$s adds the version %2$s"
-msgstr "%1$s ajoute la version %2$s"
+msgstr "%1$s ajusta la version %2$s"
 
 #: src/Log.php:433
 #, php-format
 msgid "%1$s by %2$s"
-msgstr "%1$s par %2$s"
+msgstr "%1$s per %2$s"
 
 #: src/Update.php:283 src/Console/Database/EnableTimezonesCommand.php:92
 #: src/Central.php:494
 #, php-format
 msgid "%1$s columns are using the deprecated datetime storage field type."
-msgstr "%1$s colonnes utilisent la définition dépréciée, DATETIME."
+msgstr "%1$s colomnas utilizan la definicion despreciada, DATETIME."
 
 #. TRANS: %s is the user login, %2$s is the license id
 #: front/softwarelicense.form.php:91
 #, php-format
 msgid "%1$s deletes the license %2$s"
-msgstr "%1$s supprime la licence %2$s"
+msgstr "%1$s suprimís la licéncia %2$s"
 
 #. TRANS: first parameter is the rule type name
 #: front/rule.common.php:62
 #, php-format
 msgid "%1$s has been reset."
-msgstr "%1$s ont été réinitialisées"
+msgstr "%1$s que son estats reinicialisadas."
 
 #: src/Config.php:1770
 #, php-format
 msgid "%1$s hits rate is correct"
-msgstr "Le taux de succès de %1$s est correct"
+msgstr "Lo taus d'escaduda de %1$s qu'ei corrècte"
 
 #: src/Config.php:1767
 #, php-format

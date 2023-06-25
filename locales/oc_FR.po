@@ -505,45 +505,45 @@ msgstr "Lo taus d'escaduda de %1$s qu'ei corrècte"
 #: src/Config.php:1767
 #, php-format
 msgid "%1$s hits rate is low"
-msgstr "Le taux de succès de %1$s est faible"
+msgstr "Lo taus d'escaduda de %1$s qu'ei feble"
 
 #: src/Log.php:245
 #, php-format
 msgid "%1$s impersonated by %2$s"
-msgstr "%2$s prend l'identité de %1$s "
+msgstr "%2$s que pren l'identitat de %1$s"
 
 #: templates/components/itilobject/add_items.html.twig
 #, php-format
 msgid "%1$s item not saved"
 msgid_plural "%1$s items not saved"
-msgstr[0] "%1$s élément non enregistré"
-msgstr[1] "%1$s éléments non enregistrés"
-msgstr[2] "%1$s éléments non enregistrés"
+msgstr[0] "%1$s element non enregistrat"
+msgstr[1] "%1$s elements non enregistrats"
+msgstr[2] "%1$s elements non enregistrats"
 
 #: src/Auth.php:1022
 #, php-format
 msgid "%1$s log in from IP %2$s"
-msgstr "%1$s se connecte depuis l'IP %2$s"
+msgstr "%1$s que's connècta despuish l'IP %2$s "
 
 #: src/Config.php:1751
 #, php-format
 msgid "%1$s memory usage is correct"
-msgstr "L'utilisation mémoire de %1$s est correcte"
+msgstr "L'utilizacion memòria de %1$s qu'ei corrècta "
 
 #: src/Config.php:1748
 #, php-format
 msgid "%1$s memory usage is too low or too high"
-msgstr "L'utilisation mémoire de %1$s est trop faible ou trop élevée"
+msgstr "L'utilizacion memòria de %1$s qu'ei tròp febla o tròp hauta"
 
 #: src/State.php:520
 #, php-format
 msgid "%1$s must be unique per level!"
-msgstr "%1$s doit être unique par niveau !"
+msgstr "%1$s que deu estar unic per nivèu !"
 
 #: src/State.php:279
 #, php-format
 msgid "%1$s must be unique!"
-msgstr "%1$s doit être unique !"
+msgstr "%1$s que deu estar unic !"
 
 #: src/Item_Devices.php:872 src/Item_Devices.php:888
 #, php-format
@@ -553,51 +553,51 @@ msgstr "%1$s de %2$s : %3$s"
 #: src/Item_Devices.php:83
 #, php-format
 msgid "%1$s of item \"%2$s\""
-msgstr "%1$s de l'élément \"%2$s\""
+msgstr "%1$s de l'element \"%2$s\""
 
 #: src/NetworkPortInstantiation.php:946
 #, php-format
 msgid "%1$s on %2$s"
-msgstr "%1$s sur %2$s"
+msgstr "%1$s sus %2$s"
 
 #: templates/components/itilobject/timeline/form_solution.html.twig
 #, php-format
 msgid "%1$s on %2$s by %3$s"
-msgstr "%1$s le %2$s par %3$s"
+msgstr "%1$s lo %2$s per %3$s"
 
 #: src/Rack.php:763
 #, php-format
 msgid "%1$s position is not available"
-msgstr "La position %1$s n'est pas disponible"
+msgstr "La posicion %1$s n'ei pas disponible"
 
 #. TRANS: %s is the user login, %2$s is the license id
 #: front/softwarelicense.form.php:103
 #, php-format
 msgid "%1$s purges the license %2$s"
-msgstr "%1$s purge la licence %2$s "
+msgstr "%1$s que purga la licéncia %2$s"
 
 #: front/reservation.form.php:82
 #, php-format
 msgid "%1$s purges the reservation for item %2$s"
-msgstr "%1$s annule la réservation de l'objet %2$s"
+msgstr "%1$s qu'anulla la reservacion de l'objècte %2$s "
 
 #. TRANS: %s is the user login, %2$s is the version id
 #: front/softwareversion.form.php:75
 #, php-format
 msgid "%1$s purges the version %2$s"
-msgstr "%1$s purge la version %2$s "
+msgstr "%1$s que purga la version %2$s "
 
 #: src/Printer_CartridgeInfo.php:92
 #, php-format
 msgctxt "%1$s remaining page"
 msgid "%1$s remaining pages"
-msgstr "%1$s pages restantes"
+msgstr "%1$s paginas restantas"
 
 #. TRANS: first parameter is the rule type name
 #: front/rule.common.php:70
 #, php-format
 msgid "%1$s reset failed."
-msgstr "Échec de la réinitialisation de : %1$s."
+msgstr "Mauescaduda de la reinicialisacion de : %1$s."
 
 #: src/Config.php:1783
 #, php-format

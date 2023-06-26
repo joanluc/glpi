@@ -602,56 +602,54 @@ msgstr "Mauescaduda de la reinicialisacion de : %1$s."
 #: src/Config.php:1783
 #, php-format
 msgid "%1$s restart rate is correct"
-msgstr "Le taux de redémarrage de %1$s est correct"
+msgstr "Lo taus d'arregahada de %1$s qu'ei corrècte"
 
 #: src/Config.php:1780
 #, php-format
 msgid "%1$s restart rate is too high"
-msgstr "Le taux de redémarrage de %1$s est trop élevé"
+msgstr "Lo taus d'arregahada de %1$s qu'ei tròp haut"
 
 #. TRANS: %1$s is the user login, %2$s the revision number
 #: src/KnowbaseItem.php:2436
 #, php-format
 msgid "%1$s reverts item to revision %2$s"
-msgstr "%1$s a rétabli l'élément à la révision %2$s"
+msgstr "%1$s qu'a restablit l'element a la revision %2$s"
 
 #. TRANS: %1$s is the user login, %2$s the revision number
 #: src/KnowbaseItemTranslation.php:470
 #, php-format
 msgid "%1$s reverts item translation to revision %2$s"
-msgstr "%1$s a rétabli la traduction de l'élément à la révision %2$s"
+msgstr "%1$s qu'a restablit la traduccion de l'element a la revision %2$s"
 
 #: src/Stat/Data/Location/StatDataOpenSatisfaction.php:51
 #, php-format
 msgid "%1$s satisfaction survey (%2$s)"
-msgstr "%1$s enquête de satisfaction (%2$s)"
+msgstr "%1$s enquèsta de satisfaccion (%2$s)"
 
 #: src/GLPINetwork.php:86 src/Marketplace/View.php:151
 #, php-format
 msgid "%1$s services website seems not available from your network or offline"
-msgstr ""
-"Le site web des services %1$s ne semble pas disponible ou votre réseau est "
-"hors ligne"
+msgstr "Lo site web deus servicis %1$s ne sembla pas disponible o lo vòste hialat qu'ei hòra linha"
 
 #: src/Session.php:1770
 #, php-format
 msgid "%1$s starts impersonating user %2$s"
-msgstr "%1$s commence la prise d'identité de l'utilisateur %2$s"
+msgstr "%1$s que comença la presa d'identitat de l'utilizator %2$s"
 
 #: src/Session.php:1804
 #, php-format
 msgid "%1$s stops impersonating user %2$s"
-msgstr "%1$s termine la prise d'identité de l'utilisateur %2$s"
+msgstr "%1$s qu'acaba la presa d'identitat de l'utilizator %2$s"
 
 #: src/Migration.php:1075
 #, php-format
 msgid "%1$s table already exists. A backup have been done to %2$s"
-msgstr "La table %1$s existe déjà. Une sauvegarde a été effectuée dans %2$s"
+msgstr "La taula %1$s qu'existeish dejà. Ua sauvaguarda qu'ei estada efectuada dens %2$s"
 
 #: src/Update.php:296 src/Central.php:504
 #, php-format
 msgid "%1$s tables are using the deprecated utf8mb3 storage charset."
-msgstr "%1$s tables utilisent le charset déprécié, utf8mb3."
+msgstr "%1$s taulas qu'utilizan lo charset despreciat, utf8mb3."
 
 #. TRANS: first parameter is the template name
 #: src/DomainRecord.php:354 src/ITILTemplate.php:152
@@ -665,12 +663,12 @@ msgstr[2] "%1$s gabarits"
 #: src/CommonDBTM.php:4555
 #, php-format
 msgid "%1$s trying to add an item that already exists: %2$s"
-msgstr "%1$s essaie d'ajouter un élément qui existe déjà : %2$s"
+msgstr "%1$s qu'ensaja d'ajustar un element qui existeish dejà : %2$s"
 
 #: src/CommonITILObject.php:8073
 #, php-format
 msgid "%1$s updates the item %2$s"
-msgstr "%1$s met à jour l'élément %2$s"
+msgstr "%1$s que actualiza l'element %2$s"
 
 #. TRANS: %s is the user login, %2$s is the license id
 #: front/softwarelicense.form.php:116

@@ -1110,7 +1110,7 @@ msgstr "%s(copia %d)"
 #: src/Features/Clonable.php:302
 #, php-format
 msgid "%s (copy)"
-msgstr "%s (copie)"
+msgstr "%s (copia)"
 
 #: src/Reservation.php:620
 #, php-format
@@ -1120,7 +1120,7 @@ msgstr "%s - %s"
 #: src/CommonITILObject.php:8941 src/Project.php:2256
 #, php-format
 msgid "%s / %s tasks complete"
-msgstr "%s / %s tâches complétées"
+msgstr "%s / %s tascas completadas"
 
 #: src/Console/Cache/ConfigureCommand.php:117
 #: src/Console/Cache/ConfigureCommand.php:118
@@ -1149,37 +1149,37 @@ msgstr "%s Mio maximum"
 #: front/knowbaseitem_comment.form.php:67
 #, php-format
 msgid "%s adds a comment on knowledge base"
-msgstr "%s a ajouté un commentaire à la base de connaissances"
+msgstr "%s qu'a ajustat un comentari a la basa de coneishenças"
 
 #. TRANS: %s is the user login
 #: front/contractcost.form.php:64 front/commonitilcost.form.php:73
 #: front/projectcost.form.php:64 front/ticketcost.form.php:57
 #, php-format
 msgid "%s adds a cost"
-msgstr "%s ajoute un coût"
+msgstr "%s qu'ajusta un còst"
 
 #. TRANS: %s is the user login
 #: front/databaseinstance.form.php:60
 #, php-format
 msgid "%s adds a database instance"
-msgstr "%s a ajouté une instance de base de données"
+msgstr "%s qu'a ajustat ua instància de basa de dadas "
 
 #. TRANS: %s is the user login
 #: front/itilfollowup.form.php:63
 #, php-format
 msgid "%s adds a followup"
-msgstr "%s ajoute un suivi"
+msgstr "%s ajusta un seguit"
 
 #: front/knowbaseitem_knowbaseitemcategory.form.php:57
 #, php-format
 msgid "%s adds a link with a category"
-msgstr "%s a ajouté un lien avec une catégorie"
+msgstr "%s a ajustat un ligam amb una categoria"
 
 #. TRANS: %s is the user login
 #: front/contract_supplier.form.php:68 front/contact_supplier.form.php:60
 #, php-format
 msgid "%s adds a link with a supplier"
-msgstr "%s ajoute un lien avec un fournisseur"
+msgstr "%s ajusta un ligam amb un fornidor"
 
 #. TRANS: %s is the user login
 #: front/certificate_item.form.php:53 front/item_project.form.php:58
@@ -1193,18 +1193,18 @@ msgstr "%s ajoute un lien avec un fournisseur"
 #: front/problem_ticket.form.php:70 src/Document.php:364
 #, php-format
 msgid "%s adds a link with an item"
-msgstr "%s ajoute un lien avec un élément"
+msgstr "%s ajusta un ligam amb un element"
 
 #: front/knowbaseitem_item.form.php:59
 #, php-format
 msgid "%s adds a link with an knowledge base"
-msgstr "%s a ajouté un lien avec un article de la base de connaissances"
+msgstr "%s qu'a ajustat un ligam dab un article de la basa de coneishenças"
 
 #. TRANS: %s is the user login
 #: front/item_remotemanagement.form.php:63
 #, php-format
 msgid "%s adds a remote management"
-msgstr "%s a ajouté une prise en main à distance"
+msgstr "%s qu'a ajustat ua presa en man a distància"
 
 #. TRANS: %s is the user login
 #: front/socket.form.php:64 front/socket.form.php:124

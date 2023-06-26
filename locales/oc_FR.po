@@ -674,58 +674,58 @@ msgstr "%1$s que actualiza l'element %2$s"
 #: front/softwarelicense.form.php:116
 #, php-format
 msgid "%1$s updates the license %2$s"
-msgstr "%1$s met à jour la licence %2$s"
+msgstr "%1$s que actualiza la licéncia %2$s"
 
 #. TRANS: %s is the user login, %2$s is the version id
 #: front/softwareversion.form.php:88
 #, php-format
 msgid "%1$s updates the version %2$s"
-msgstr "%1$s met à jour la version %2$s"
+msgstr "%1$s que actualiza la version %2$s "
 
 #: front/report.infocom.conso.php:282 front/report.infocom.php:307
 #, php-format
 msgid "%1$s value"
-msgstr "valeur %1$s"
+msgstr "valor %1$s"
 
 #: templates/components/itilobject/timeline/new_form.html.twig
 #, php-format
 msgid "%1$s will be added in entity %2$s"
-msgstr "%1$s sera ajouté à l'entité %2$s"
+msgstr "%1$s que serà ajustat a l'entitat %2$s "
 
 #: src/Html.php:417
 #, php-format
 msgid "%1$s%2$d days %3$d hours %4$d minutes"
-msgstr "%1$s%2$d jours %3$d heures %4$d minutes"
+msgstr "%1$s%2$d dias %3$d òras %4$d minutas"
 
 #: src/Html.php:406
 #, php-format
 msgid "%1$s%2$d days %3$d hours %4$d minutes %5$d seconds"
-msgstr "%1$s%2$d jours %3$d heures %4$d minutes %5$d secondes"
+msgstr "%1$s%2$d dias %3$d òras %4$d minutas %5$d segondas"
 
 #. TRANS: %1$s is the sign (-or empty), %2$d number of hours, %3$d number of
 #. minutes
 #: src/Html.php:443
 #, php-format
 msgid "%1$s%2$d hours %3$d minutes"
-msgstr "%1$s%2$d heures %3$d minutes"
+msgstr "%1$s%2$d òras %3$d minutas"
 
 #: src/Html.php:435
 #, php-format
 msgid "%1$s%2$d hours %3$d minutes %4$d seconds"
-msgstr "%1$s%2$d heures %3$d minutes %4$d secondes"
+msgstr "%1$s%2$d òras %3$d minutas %4$d segondas"
 
 #: src/Html.php:458
 #, php-format
 msgid "%1$s%2$d minute"
 msgid_plural "%1$s%2$d minutes"
-msgstr[0] "%1$s%2$d minute"
-msgstr[1] "%1$s%2$d minutes"
-msgstr[2] "%1$s%2$d minutes"
+msgstr[0] "%1$s%2$d minuta"
+msgstr[1] "%1$s%2$d minutas"
+msgstr[2] "%1$s%2$d minutas"
 
 #: src/Html.php:450
 #, php-format
 msgid "%1$s%2$d minutes %3$d seconds"
-msgstr "%1$s%2$d minutes %3$d secondes"
+msgstr "%1$s%2$d minutas %3$d segondas"
 
 #. TRANS: letter 'D' for Dynamic
 #. TRANS: letter 'R' for Recursive
@@ -743,9 +743,9 @@ msgstr "%1$s%2$s"
 #, php-format
 msgid "%1$s%2$s second"
 msgid_plural "%1$s%2$s seconds"
-msgstr[0] "%1$s%2$s seconde"
-msgstr[1] "%1$s%2$s secondes"
-msgstr[2] "%1$s%2$s secondes"
+msgstr[0] "%1$s%2$s segonda"
+msgstr[1] "%1$s%2$s segondas"
+msgstr[2] "%1$s%2$s segondas"
 
 #: src/Profile_User.php:1014 src/Profile_User.php:1022
 #: src/Profile_User.php:1027 src/Profile_User.php:1263
@@ -757,7 +757,7 @@ msgstr "%1$s, %2$s"
 #: src/NotificationEventMailing.php:435
 #, php-format
 msgid "%1$s. Message: %2$s, Error: %3$s"
-msgstr "%1$s. Message : %2$s, Erreur : %3$s"
+msgstr "%1$s. Messatge : %2$s, Error : %3$s"
 
 #. TRANS: %s is the component name
 #. TRANS: %s is the software name
@@ -968,27 +968,27 @@ msgstr "%d Mbit/s"
 #, php-format
 msgid "%d day"
 msgid_plural "%d days"
-msgstr[0] "%d jour"
-msgstr[1] "%d jours"
-msgstr[2] "%d jours"
+msgstr[0] "%d dia"
+msgstr[1] "%d dias"
+msgstr[2] "%d dias"
 
 #: src/CommonITILRecurrent.php:262 src/LevelAgreement.php:717
 #: src/PlanningRecall.php:299 src/Dropdown.php:2327 src/Entity.php:3616
 #, php-format
 msgid "%d hour"
 msgid_plural "%d hours"
-msgstr[0] "%d heure"
-msgstr[1] "%d heures"
-msgstr[2] "%d heures"
+msgstr[0] "%d òra"
+msgstr[1] "%d òras"
+msgstr[2] "%d òras"
 
 #: src/LevelAgreement.php:714 src/PlanningRecall.php:292 src/Dropdown.php:2318
 #: src/Dropdown.php:2322
 #, php-format
 msgid "%d minute"
 msgid_plural "%d minutes"
-msgstr[0] "%d minute"
-msgstr[1] "%d minutes"
-msgstr[2] "%d minutes"
+msgstr[0] "%d minuta"
+msgstr[1] "%d minutas"
+msgstr[2] "%d minutas"
 
 #: templates/components/infocom.html.twig
 #: templates/pages/management/contract.html.twig
@@ -1003,71 +1003,71 @@ msgstr[2] "%d minutes"
 #, php-format
 msgid "%d month"
 msgid_plural "%d months"
-msgstr[0] "%d mois"
-msgstr[1] "%d mois"
-msgstr[2] "%d mois"
+msgstr[0] "%d mes"
+msgstr[1] "%d mes"
+msgstr[2] "%d mes"
 
 #. TRANS: %d is the number of new tickets
 #: src/Ticket.php:5336
 #, php-format
 msgid "%d new ticket"
 msgid_plural "%d new tickets"
-msgstr[0] "%d nouveau ticket"
-msgstr[1] "%d nouveaux tickets"
-msgstr[2] "%d nouveaux tickets"
+msgstr[0] "%d navèth tiquet"
+msgstr[1] "%d navèths tiquets"
+msgstr[2] "%d navèths tiquets"
 
 #: js/modules/Kanban/Kanban.js:1663
 #, javascript-format
 msgid "%d other team members"
-msgstr "%dautres membres d'équipe"
+msgstr "%d autes membres d'equipa"
 
 #: src/Update.php:309 src/Central.php:514
 #, php-format
 msgid "%d primary or foreign keys columns are using signed integers."
-msgstr "%d colonnes primaires ou étrangères utilisent des entiers signés"
+msgstr "%d colomnas primàrias o estrangèras qu'utilizan entièrs signats."
 
 #: src/Cartridge.php:887
 #, php-format
 msgid "%d printed page"
 msgid_plural "%d printed pages"
-msgstr[0] "%d page imprimée"
-msgstr[1] "%d pages imprimées"
-msgstr[2] "%d pages imprimées"
+msgstr[0] "%d pagina imprimida"
+msgstr[1] "%d paginas imprimidas"
+msgstr[2] "%d paginas imprimidas"
 
 #: src/Console/Migration/Utf8mb4Command.php:124
 #, php-format
 msgid "%d tables are still using Compact or Redundant row format."
-msgstr "%d tables utilisent toujours le format de ligne Compact ou Redondant."
+msgstr "%d taulas qu'utilizan tostemps lo format de linha Compacte o Redondant."
 
 #: src/Update.php:277 src/Console/Migration/Utf8mb4Command.php:116
 #: src/Console/Migration/DynamicRowFormatCommand.php:86 src/Central.php:489
 #, php-format
 msgid "%d tables are using the deprecated MyISAM storage engine."
-msgstr "%d tables utilisent le moteur de stockage déprécié, MyISAM."
+msgstr "%d taulas qu'utilizan lo motor d'estocatge despreciat, MyISAM."
 
 #: src/Dropdown.php:1845
 #, php-format
 msgid "%d unit"
 msgid_plural "%d units"
-msgstr[0] "%d unité"
-msgstr[1] "%d unités"
-msgstr[2] "%d unités"
+msgstr[0] "%d unitat"
+msgstr[1] "%d unitats"
+msgstr[2] "%d unitats"
 
 #: src/KnowbaseItem.php:1009 src/KnowbaseItem.php:1297
 #, php-format
 msgid "%d view"
 msgid_plural "%d views"
-msgstr[0] "%d vue"
-msgstr[1] "%d vues"
-msgstr[2] "%d vues"
+msgstr[0] "%d vista"
+msgstr[1] "%d vistas"
+msgstr[2] "%d vistas"
 
 #: src/PlanningRecall.php:307
 #, php-format
 msgid "%d week"
 msgid_plural "%d weeks"
-msgstr[0] "%d semaine"
-msgstr[1] "%d semaines"
-msgstr[2] "%d semaines"
+msgstr[0] "%d setmana"
+msgstr[1] "%d setmanas"
+msgstr[2] "%d setmanas"
 
 #: src/CommonITILRecurrent.php:239 src/CommonITILRecurrent.php:277
 #, php-format
@@ -1086,7 +1086,7 @@ msgstr "%d%%"
 #: src/CommonITILRecurrent.php:590
 #, php-format
 msgid "%s %d successfully created"
-msgstr "%s %d créés avec succès"
+msgstr "%s %d creats dab escadudas"
 
 #: src/NetworkPort.php:851 src/NetworkPort.php:925
 #, php-format
@@ -1105,7 +1105,7 @@ msgstr "%s (%s)"
 #: src/Features/Clonable.php:306
 #, php-format
 msgid "%s (copy %d)"
-msgstr "%s(copie %d)"
+msgstr "%s(copia %d)"
 
 #: src/Features/Clonable.php:302
 #, php-format
